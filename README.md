@@ -1,5 +1,6 @@
 # CS50P Project: The runner
 #### Video Demo:  <https://youtu.be/s7zOFlsuTP0>
+####This is my CS50P final project and here is its description!
 #### Description: The game is called "The runner" and is a simple game where the main character has to run and avoid obstacles all while trying to gain the highest score. This project uses python as the language and pygame as the main external module apart from using sys, pytest and random modules too. The overall structure of the project folder is as follows:
 >- project.py
 >- test_project.py
